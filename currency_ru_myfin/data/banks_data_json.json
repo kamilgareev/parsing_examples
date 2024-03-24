@@ -1,0 +1,178 @@
+[
+    {
+        "Bank": "Банк «Открытие»",
+        "USD buying rate": "94.5",
+        "USD selling rate": "98",
+        "Euro buying rate": "100.2",
+        "Euro selling rate": "104.5",
+        "Update time": "22.10.2023 15:28"
+    },
+    {
+        "Bank": "Альфа-Банк",
+        "USD buying rate": "91.5",
+        "USD selling rate": "96.5",
+        "Euro buying rate": "97",
+        "Euro selling rate": "102",
+        "Update time": "22.10.2023 15:19"
+    },
+    {
+        "Bank": "Банк ВТБ",
+        "USD buying rate": "92.65",
+        "USD selling rate": "97.65",
+        "Euro buying rate": "97.55",
+        "Euro selling rate": "103.25",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Россельхозбанк",
+        "USD buying rate": "90.9",
+        "USD selling rate": "96.5",
+        "Euro buying rate": "96.5",
+        "Euro selling rate": "102.7",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Росбанк",
+        "USD buying rate": "88.6",
+        "USD selling rate": "98.8",
+        "Euro buying rate": "93.7",
+        "Euro selling rate": "104.8",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Банк ДОМ.РФ",
+        "USD buying rate": "96.5",
+        "USD selling rate": "104.5",
+        "Euro buying rate": "100.1",
+        "Euro selling rate": "110.1",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "СМП Банк",
+        "USD buying rate": "95.29",
+        "USD selling rate": "100.29",
+        "Euro buying rate": "100.59",
+        "Euro selling rate": "105.59",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "МТС Банк",
+        "USD buying rate": "83.56",
+        "USD selling rate": "107.44",
+        "Euro buying rate": "88.37",
+        "Euro selling rate": "113.63",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "ОТП Банк",
+        "USD buying rate": "86",
+        "USD selling rate": "96",
+        "Euro buying rate": "91.5",
+        "Euro selling rate": "101.5",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "БКС Банк",
+        "USD buying rate": "95.2",
+        "USD selling rate": "96.59",
+        "Euro buying rate": "100.8",
+        "Euro selling rate": "102.39",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Банк Финсервис",
+        "USD buying rate": "95.6",
+        "USD selling rate": "97",
+        "Euro buying rate": "101",
+        "Euro selling rate": "102.8",
+        "Update time": "22.10.2023 15:27"
+    },
+    {
+        "Bank": "СберБанк",
+        "USD buying rate": "93",
+        "USD selling rate": "99.8",
+        "Euro buying rate": "99.4",
+        "Euro selling rate": "104.4",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Газпромбанк",
+        "USD buying rate": "92.7",
+        "USD selling rate": "96.9",
+        "Euro buying rate": "98.4",
+        "Euro selling rate": "102.6",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Райффайзенбанк",
+        "USD buying rate": "85.9",
+        "USD selling rate": "94.6",
+        "Euro buying rate": "90.9",
+        "Euro selling rate": "102.1",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Тинькофф Банк",
+        "USD buying rate": "85.75",
+        "USD selling rate": "100.2",
+        "Euro buying rate": "90.75",
+        "Euro selling rate": "106.05",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Банк «Санкт-Петербург»",
+        "USD buying rate": "94.95",
+        "USD selling rate": "96.95",
+        "Euro buying rate": "100.3",
+        "Euro selling rate": "102.3",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Банк Уралсиб",
+        "USD buying rate": "91.16",
+        "USD selling rate": "99.35",
+        "Euro buying rate": "96.55",
+        "Euro selling rate": "105.71",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Русский Стандарт",
+        "USD buying rate": "94",
+        "USD selling rate": "99",
+        "Euro buying rate": "95.5",
+        "Euro selling rate": "103",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Банк Интеза",
+        "USD buying rate": "82",
+        "USD selling rate": "98",
+        "Euro buying rate": "89",
+        "Euro selling rate": "105",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Пойдем!",
+        "USD buying rate": "93.25",
+        "USD selling rate": "97.25",
+        "Euro buying rate": "97.5",
+        "Euro selling rate": "102.5",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Юнистрим",
+        "USD buying rate": "94.75",
+        "USD selling rate": "97",
+        "Euro buying rate": "98",
+        "Euro selling rate": "102",
+        "Update time": "22.10.2023 15:16"
+    },
+    {
+        "Bank": "Совкомбанк",
+        "USD buying rate": "91.5",
+        "USD selling rate": "99.5",
+        "Euro buying rate": "97.1",
+        "Euro selling rate": "105.1",
+        "Update time": "20.10.2023 20:46"
+    }
+]
